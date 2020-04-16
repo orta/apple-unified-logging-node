@@ -1,3 +1,6 @@
+#import <Cocoa/Cocoa.h>
+#import <OSLog/OSLog.h>
+
 #include "functions.h"
 
 using v8::FunctionTemplate;
